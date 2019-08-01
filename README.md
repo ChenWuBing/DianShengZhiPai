@@ -1,4 +1,4 @@
-# 德阳建院校园
+# 私人剧场-商家端
 
 "德阳建院校园" is an assistant for students of Sichuan Architecture Engineering. It can help students understand the school and study situation, and help students sum up the campus atmosphere and lead students to integrate into campus life more quickly.
 
