@@ -1,5 +1,5 @@
-# 直播吧--热门足球赛事
+# 可酷体育
 
-We are a platform dedicated to broadcasting the latest football matches. For each football match in progress, a dedicated host will describe the situation on the pitch in writing. Our platform data is authoritative and guaranteed to be the same as the actual situation. Friends who like to watch football matches can get their desired match records in real time on our platform.
+我们是致力于提供滑冰场地和滑冰相关比赛门票预售的平台，喜欢滑冰、需要使用滑冰场地的、想要参加滑冰相关比赛的用于可以通过我们的平台订购相关的产品，。我们的滑冰场地是安全的、国际标准化的。欢迎广大用户前来游玩。
 
-If you have any questions, please contact the technical support email: wlwdhhh@126.com, thank you for your support.
+如有任何疑问，请联系技术支持电子邮件：wlwdhhh@126.com，感谢您的支持。
